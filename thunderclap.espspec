@@ -3,7 +3,7 @@
 	"version" : "1.0.0",
 	"summary" : "Fuck'n simple notification system."
 	"description" : "",
-	"homepage" : "https://github.com/0x0c/thunderclap",
+	"homepage" : "https://github.com/0x0c/esp-thunderclap",
 	"lisense" : "MIT",
 	"author" = {
 		"Akira MATSUDA" : "akira.matsuda@me.com"
